@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Zz_zapatilla" size="1.750000 1.689024" />
+    <ImageTarget name="Yy_yunque" size="1.750000 1.648981" />
+    <ImageTarget name="Xx_saxofon" size="1.750000 1.683735" />
+    <ImageTarget name="Ww_dobleu" size="1.750000 1.635870" />
+    <ImageTarget name="Vv_vaso" size="1.750000 1.699405" />
+    <ImageTarget name="Tt_trofeo" size="1.750000 1.680723" />
+    <ImageTarget name="Ss_sillon" size="1.750000 1.668954" />
+    <ImageTarget name="Rr_relampago" size="1.750000 1.669092" />
+    <ImageTarget name="Qq_queso" size="1.750000 1.722124" />
+    <ImageTarget name="Pp_paraguas" size="1.750000 1.689551" />
+    <ImageTarget name="Nn_naranja" size="1.750000 1.669369" />
+    <ImageTarget name="Mm_mesa" size="1.750000 1.713793" />
+    <ImageTarget name="Ll_limon" size="1.750000 1.664485" />
+    <ImageTarget name="Kk_koala" size="1.750000 1.590116" />
+    <ImageTarget name="Jj_juego" size="1.750000 1.661318" />
+    <ImageTarget name="Hh_historia" size="1.750000 1.689024" />
+    <ImageTarget name="Gg_globos" size="1.750000 1.686856" />
+    <ImageTarget name="Cc_camion" size="1.500000 1.459003" />
+    <ImageTarget name="Ff_foco" size="1.750000 1.695026" />
+    <ImageTarget name="Dd_disco" size="1.500000 1.472995" />
+    <ImageTarget name="Bb_bicicleta" size="1.500000 1.436283" />
+    <ImageTarget name="Aa_Avion" size="0.150000 0.144681" />
+    <ImageTarget name="Uu_urano" size="0.150000 0.144425" />
+    <ImageTarget name="Oo_oso" size="0.150000 0.144947" />
+    <ImageTarget name="Ii_iguana" size="0.150000 0.144681" />
+    <ImageTarget name="Ee_elefante" size="0.150000 0.144425" />
+  </Tracking>
+</QCARConfig>

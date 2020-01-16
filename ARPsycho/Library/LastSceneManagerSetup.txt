@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARPsycho_A_Letter.unity
+  isLoaded: 1
+  isActive: 1
